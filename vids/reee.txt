@@ -1,0 +1,22 @@
+Key Responsibilities of Student Affairs:
+
+Student Records Management
+Student Welfare & Support
+Disciplinary Matters
+Housing/Accommodation
+Student Organizations/Activities
+Communication & Announcements
+Student ID Management
+Student Complaints/Issues
+
+can you do this onces
+
+student-records.php (for viewing and managing student information)
+
+
+although you already gave me this sql
+
+
+hostel-applications.php (for managing accommodation requests)
+complaints.php (for handling student issues)
+disciplinary-cases.php (for managing student discipline) i dont mind if you create sql dumps for them
